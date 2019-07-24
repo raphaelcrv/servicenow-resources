@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. [Development Resources](#development-resources)
+1. [Design Resources](#development-resources)
 1. [Websites](#websites)
 1. [Misc](#misc)
 
@@ -22,6 +23,15 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 - [Glider.js](https://github.com/tltoulson/Glider.js) by [@tltoulson](https://github.com/tltoulson)
 - [Script Execution Order](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/script/general-scripting/reference/r_ExecutionOrderScriptsAndEngines.html)
 - [Script evaluation of fields by data type](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/script/general-scripting/reference/r_ScriptingOfFieldTypes.html)
+
+## Design Resources
+
+- [Now Design Think guide](https://sc.service-now.com/snideation)
+- [Design Inspire Pinterest](https://br.pinterest.com/pin/126523070762771874/)
+- [5_Essentials_All_Great_Service_Portals_Have_in_Common](https://www.cernasolutions.com/images/webinar/5_Essentials_All_Great_Service_Portals_Have_in_Common.pdf)
+
+- [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
+
 
 ### Service Portal
 - [Scope in Service Portal](https://www.dylanlindgren.com/2017/10/28/service-portal-fundamentals-angularjs-scopes/)
