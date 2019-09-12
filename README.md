@@ -65,6 +65,8 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 - [16 JavaScript Concepts You Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [JS for Cats](http://jsforcats.com/) is a great and funny introduction to JavaScript
+- 
+[NOWSupport best practices series list](https://community.servicenow.com/community?id=community_blog&sys_id=6e7d6269dbd0dbc01dcaf3231f9619c0&view_source=searchResult) 
 
 #### Angular
 **NOTE:** As of Kingston, Service Portal uses Angular 1.5.1. Angular 1.6 & 2+ features are not supported. 
@@ -92,8 +94,6 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 ## Misc
 - If a company is using SSO and you are being redirected, try `<instance-name>.service-now.com/login.do` or `<instance-name>.service-now.com/side_door.do`
 
-## General
-[NOWSupport best practices series list](https://community.servicenow.com/community?id=community_blog&sys_id=6e7d6269dbd0dbc01dcaf3231f9619c0&view_source=searchResult)
 
 ### Service Portal Structure
 #### Tables
